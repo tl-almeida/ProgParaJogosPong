@@ -1,4 +1,9 @@
-## **Nome:**
+## Grupo:
+
+- Thiago Lima de Almeida
+- Liane Gabriela Barbosa Morais de Brito
+
+## Nome:
 
 PONG
 
@@ -29,3 +34,10 @@ Todas as idades.
 - Desktop;
 - A arte será moderna do estilo 2.5D;
 - A engine utilizada será UNITY.
+
+## Possíveis melhorias:
+
+- Efeitos sonoros;
+- Placar;
+- Obstáculos aleatórios para dificultar;
+- Velocidade crescente da bola.
